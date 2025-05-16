@@ -1,1 +1,2 @@
 # javascript
+Aprendendo a linguagem.
